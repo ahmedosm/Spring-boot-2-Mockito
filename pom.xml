@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.osmanco</groupId>
-	<artifactId>TestEasyMock</artifactId>
+	<artifactId>Spring-boot-2-Mockito</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TestEasyMock</name>
+	<name>Spring-boot-2-Mockito</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
