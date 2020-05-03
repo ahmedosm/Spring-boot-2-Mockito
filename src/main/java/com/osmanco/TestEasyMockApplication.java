@@ -9,5 +9,6 @@ public class TestEasyMockApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TestEasyMockApplication.class, args);
 	}
+	
 
 }
